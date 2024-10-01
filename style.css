@@ -1,0 +1,41 @@
+.flag{
+    height: 600px;
+    width: 900px;
+    /* border: 2px solid black; */
+    margin-top: 30px;
+    margin-left: 300px;
+    background-color: red;
+    position: relative;
+}
+
+.parent1{
+    height: 300px;
+    width: 900px;
+    /* border: 2px solid black; */
+    background-color: darkblue;
+    position: absolute;
+    top: 150px;
+}
+
+.parent2{
+    position: relative;
+    top: 45px;
+    left: 350px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+p{
+    font-size: 4.5rem;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+
+
+
+
